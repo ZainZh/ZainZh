@@ -6,9 +6,9 @@
 - 🤖️Robotics  
 - 🧠Reinforcement learning
 
-| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ZainZh&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainZh&layout=compact&theme=dracula) |
+| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ZainZh&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainZh&layout=compact) |
 | --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainZh&theme=dracula) ||
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainZh) ||
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
