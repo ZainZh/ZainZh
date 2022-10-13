@@ -1,9 +1,9 @@
 ### Hello, World!
 👋Hi, guys! 
-This is Zain(孙正).
+✨This is Zain(孙正).
 I am interested in:
-- Robotics - 
-- Reinforcement learning!
+- 🤖️Robotics  
+- 🧠Reinforcement learning
 
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ZainZh&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainZh&layout=compact&theme=dracula) |
 | --- | --- |
