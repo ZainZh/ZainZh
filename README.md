@@ -18,18 +18,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 552 Contributions in the Year 2022
- > 
-> 📦 296.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
 **I Mostly Code in Python** 
 
 ```text
@@ -46,7 +34,7 @@ C                        2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ZainZh/ZainZh/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 14:33:04 UTC
+ Last Updated on 13/10/2022 14:54:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
