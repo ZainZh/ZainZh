@@ -9,7 +9,7 @@
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ZainZh&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainZh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ZainZh&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainZh)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 | ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainZh) ||
 
