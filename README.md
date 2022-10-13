@@ -6,12 +6,14 @@
 - 🤖️Robotics  
 - 🧠Reinforcement learning
 
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ZainZh&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainZh&layout=compact) |
 | --- | --- |
 | ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainZh) ||
 
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 <!--
 **ZainZh/ZainZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
