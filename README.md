@@ -3,13 +3,13 @@
 
 ✨This is Zain(孙正).
 🤔I am interested in:
-- 🤖️Robotics  
+- 🤖️Robotics 
 - 🧠Reinforcement learning
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ZainZh&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainZh&layout=compact)](https://github.com/ZainZh/github-readme-stats) |
+| ![Praveen GitHub Statistics](https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true) | [![Top Langs](https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact)](https://github.com/ZainZh/github-readme-stats) |
 | --- | --- |
 | ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainZh) ||
 
