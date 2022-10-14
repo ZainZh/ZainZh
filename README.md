@@ -13,6 +13,7 @@
 <details>
 <summary></summary>
 <pre><code>
+
 Most Used Languages: The language that I used most in all projects.
 Wakatime Stats: My working time stats in the past seven days.
 Github stats: My growth process.
