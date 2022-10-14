@@ -18,6 +18,7 @@ Wakatime Stats: My working time stats in the past seven days.
 Github stats: My growth process.
 </code></pre>
 </details>
+
 #### 
 | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/wakatime?username=ZainZh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
