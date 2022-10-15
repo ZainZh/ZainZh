@@ -110,15 +110,6 @@ C                        2 repos             ███░░░░░░░░�
 </code></pre>
 </details>
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ZainZh/ZainZh/main/charts/bar_graph.png) 
-
-
- Last Updated on 15/10/2022 06:35:14 UTC
-
-
 <!--
 **ZainZh/ZainZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
