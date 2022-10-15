@@ -34,10 +34,6 @@ Github stats: My growth process.
 <pre><code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2048%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -95,7 +91,7 @@ C                        2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 15/10/2022 06:57:02 UTC
+ Last Updated on 15/10/2022 18:51:49 UTC
 <!--END_SECTION:waka-->
 </code></pre>
 </details>
