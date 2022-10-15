@@ -28,6 +28,8 @@ Github stats: My growth process.
 | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainZh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | --- | --- |
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **ZainZh/ZainZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
