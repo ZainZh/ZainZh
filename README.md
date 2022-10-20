@@ -11,7 +11,7 @@
 
 
 <details>
-<summary></summary>
+<summary>💬</summary>
 <pre><code>
 
 Most Used Languages: The language that I used most in all projects.
@@ -30,7 +30,7 @@ Github stats: My growth process.
 
 
 <details>
-<summary>More interesting stats</summary>
+<summary>🌱</summary>
 <pre><code>
 
 <!--START_SECTION:waka-->
