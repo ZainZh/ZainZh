@@ -92,7 +92,7 @@ C                        2 repos             ██░░░░░░░░░�
 <pre><code>
 
 Most Used Languages: The language that I used most in all projects.
-Wakatime Stats: My working time stats in the past seven days.
+Wakatime Stats: My working time stats in the past fourteen days.
 Github stats: My growth process.
 </code></pre>
 </details>
