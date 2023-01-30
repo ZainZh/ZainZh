@@ -3,8 +3,8 @@
 
 ✨This is Zain(孙正).
 🤔I am interested in:
-- 🤖️Robotics 
-- 🧠Reinforcement learning
+- 🤖️Robot Preception and Grasping 
+- 🧠Reinforcement Learning
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
