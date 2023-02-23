@@ -13,6 +13,22 @@
 <summary>🌱</summary>
 <pre><code>
 
+
+</code></pre>
+</details>
+
+| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> |
+| ------------- | ------------- |
+
+<!--
+#### 
+| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/wakatime?username=ZainZh&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
+
+#### 
+| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainZh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| --- | --- |
+-->
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -49,20 +65,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
  Last Updated on 23/02/2023 06:47:25 UTC
 <!--END_SECTION:waka-->
-</code></pre>
-</details>
-
-
-
-#### 
-| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/wakatime?username=ZainZh&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
-| ------------- | ------------- |
-
-#### 
-| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainZh&layout=compact&theme=buefy&hide_border=true" /></a> |
-| --- | --- |
-
-
 <details>
 <summary>💬</summary>
 <pre><code>
