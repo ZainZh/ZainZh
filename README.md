@@ -9,65 +9,60 @@
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
+
+| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> |
+| ------------- | ------------- |
+
+<!--
+#### 
+| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/wakatime?username=ZainZh&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
+
+#### 
+| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainZh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| --- | --- |
+-->
+
+
+
 <details>
 <summary>🌱</summary>
 <pre><code>
+</code></pre>
+</details>
+
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning       63 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-🌆 Daytime      420 commits       ██████████████░░░░░░░░░░░   56.83 % 
-🌃 Evening      245 commits       ████████░░░░░░░░░░░░░░░░░   33.15 % 
-🌙 Night         11 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday         131 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Tuesday         87 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Wednesday      140 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Thursday       199 commits       ██████░░░░░░░░░░░░░░░░░░░   26.93 % 
-Friday         126 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Saturday        38 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Sunday          18 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 38 mins       █████████████░░░░░░░░░░░░   55.08 % 
-Bash                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Shell Script             47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   15 hrs 59 mins      █████████████████████░░░░   82.58 % 
+Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Shell Script             52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 16 mins       ████████████████████░░░░░   79.85 % 
-CLion                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-VS Code                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+PyCharm                  17 hrs 23 mins      ██████████████████████░░░   89.81 % 
+CLion                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 💻 Operating System: 
-Linux                    4 hrs 54 mins       ██████████████████░░░░░░░   74.45 % 
-Mac                      1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-
+Linux                    17 hrs 40 mins      ███████████████████████░░   91.29 % 
+Mac                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ███████████████░░░░░░░░░░   63.16 % 
+Python                   12 repos            ████████████████░░░░░░░░░   63.16 % 
 C++                      6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-
 ```
+
 
 
 
@@ -84,15 +79,10 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
-<details>
-<summary>💬</summary>
-<pre><code>
 
-Most Used Languages: The language that I used most in all projects.
-Wakatime Stats: My working time stats in the past fourteen days.
-Github stats: My growth process.
-</code></pre>
-</details>
+ Last Updated on 27/02/2023 01:37:52 UTC
+<!--END_SECTION:waka-->
+
 
 <!--
 **ZainZh/ZainZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
