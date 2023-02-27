@@ -66,21 +66,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2023 01:35:34 UTC
-<!--END_SECTION:waka-->
-</code></pre>
-</details>
-
-
-
-#### 
-| <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> |
-| ------------- | ------------- |
-
-
-
-
- Last Updated on 27/02/2023 01:37:52 UTC
+ Last Updated on 27/02/2023 07:09:18 UTC
 <!--END_SECTION:waka-->
 
 
