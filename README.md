@@ -10,7 +10,7 @@
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 <details>
-<summary>🌱</summary>
+<summary>🌱 more info</summary>
 <pre><code>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
