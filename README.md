@@ -12,9 +12,7 @@
 <details>
 <summary>🌱</summary>
 <pre><code>
-</code></pre>
-</details>
-<!--START_SECTION:waka-->
+ <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -61,6 +59,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
  Last Updated on 13/07/2023 01:51:49 UTC
 <!--END_SECTION:waka-->
+</code></pre>
+</details>
+
 
 
 | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api/top-langs/?username=ZainZh&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> | <a href="https://github.com/ZainZh/github-readme-stats"><img align="center" src="https://github-readme-stats-an0fxpx8x-zainzh.vercel.app/api?username=ZainZh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZainZh's github stats" /></a> |
