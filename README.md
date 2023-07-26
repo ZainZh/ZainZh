@@ -42,6 +42,7 @@ PyCharm                  5 hrs 26 mins       ███████████�
 
 💻 Operating System: 
 Linux                    5 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -56,7 +57,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2023 01:42:11 UTC
+ Last Updated on 26/07/2023 01:27:25 UTC
 <!--END_SECTION:waka-->
 </code></pre>
 </details>
