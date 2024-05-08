@@ -31,15 +31,13 @@ Sunday                   135 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   44 mins             █████████████████████████   98.87 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +51,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2024 01:14:51 UTC
+ Last Updated on 08/05/2024 01:02:20 UTC
 <!--END_SECTION:waka-->
 </code></pre>
 </details>
