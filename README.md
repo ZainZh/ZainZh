@@ -1,9 +1,10 @@
 ### Hello, World!
 👋Hi, guys! 
 
-✨This is Zain(孙正).
-🤔I am interested in:
-- 🤖️Robot Preception and Grasping 
+✨This is Zheng SUN(孙正, a PhD student from CUHK
+🤔I am focusing on:
+- Robot Perception and Grasping
+- Hyperspectral imaging
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
