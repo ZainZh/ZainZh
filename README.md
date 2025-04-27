@@ -44,15 +44,15 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            ███████████████████░░░░░░   76.32 % 
-C++                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   30 repos            ███████████████████░░░░░░   76.92 % 
+C++                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 26/04/2025 01:48:15 UTC
+ Last Updated on 27/04/2025 01:58:21 UTC
 <!--END_SECTION:waka-->
 </code></pre>
 </details>
