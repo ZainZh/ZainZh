@@ -13,6 +13,34 @@
 <summary>🌱</summary>
 <pre><code>
  <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2555 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Tuesday                  1791 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Wednesday                2138 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Thursday                 3009 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Friday                   2033 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Saturday                 363 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Sunday                   157 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -24,7 +52,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 02:10:56 UTC
+ Last Updated on 02/07/2025 01:59:45 UTC
 <!--END_SECTION:waka-->
 </code></pre>
 </details>
