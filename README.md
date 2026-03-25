@@ -32,13 +32,13 @@ Sunday                   171 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +52,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2026 02:37:49 UTC
+ Last Updated on 25/03/2026 02:42:09 UTC
 <!--END_SECTION:waka-->
 </code></pre>
 </details>
