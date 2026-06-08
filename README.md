@@ -13,20 +13,53 @@
 <summary>🌱</summary>
 <pre><code>
  <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2669 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Tuesday                  1940 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Wednesday                2256 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Thursday                 3190 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Friday                   2151 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Saturday                 428 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Sunday                   217 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 2 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.90 % 
+Python                   2 hrs 1 min         ████████████░░░░░░░░░░░░░   46.04 % 
+CSV/TSV                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+
+🔥 Editors: 
+PyCharm                  3 hrs 3 mins        █████████████████░░░░░░░░   69.77 % 
+VS Code                  1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   30.23 % 
+
+💻 Operating System: 
+Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   41 repos            ████████████████████░░░░░   78.85 % 
-C++                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   42 repos            ████████████████████░░░░░   79.25 % 
+C++                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
 
 
- Last Updated on 07/06/2026 04:23:56 UTC
+ Last Updated on 08/06/2026 04:29:57 UTC
 <!--END_SECTION:waka-->
 </code></pre>
 </details>
